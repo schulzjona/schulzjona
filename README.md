@@ -1,1 +1,1 @@
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-js-4acf6ab120c7.herokuapp.com?user=schulzjona&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+<a href="[https://git.io/streak-stats](https://memes.derechte.dev/)"><img src="https://github-readme-streak-stats-js-4acf6ab120c7.herokuapp.com?user=schulzjona&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat" alt="KEKW" /></a>
