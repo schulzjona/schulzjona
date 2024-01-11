@@ -1,4 +1,1 @@
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=schulzjona&" alt="schulzjona" /></p>
-
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-js-4acf6ab120c7.herokuapp.com?user=schulzjona&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
