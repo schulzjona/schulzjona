@@ -1,1 +1,1 @@
-<a href="[https://memes.derechte.dev](https://memes.derechte.dev)"><img src="https://github-readme-streak-stats-js-4acf6ab120c7.herokuapp.com?user=schulzjona&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat" alt="KEKW" /></a>
+<a href="https://memes.derechte.dev"><img src="https://github-readme-streak-stats-js-4acf6ab120c7.herokuapp.com?user=schulzjona&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat" alt="KEKW" /></a>
